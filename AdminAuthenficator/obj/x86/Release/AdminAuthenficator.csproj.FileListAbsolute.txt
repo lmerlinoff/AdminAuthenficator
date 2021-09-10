@@ -1,0 +1,5 @@
+C:\Users\g4v3r\OneDrive\Документы\AdminAuthenficator\bin\x86\Release\AdminAuthenficator.exe.config
+C:\Users\g4v3r\OneDrive\Документы\AdminAuthenficator\bin\x86\Release\AdminAuthenficator.exe
+C:\Users\g4v3r\OneDrive\Документы\AdminAuthenficator\obj\x86\Release\AdminAuthenficator.csprojAssemblyReference.cache
+C:\Users\g4v3r\OneDrive\Документы\AdminAuthenficator\obj\x86\Release\AdminAuthenficator.csproj.CoreCompileInputs.cache
+C:\Users\g4v3r\OneDrive\Документы\AdminAuthenficator\obj\x86\Release\AdminAuthenficator.exe
